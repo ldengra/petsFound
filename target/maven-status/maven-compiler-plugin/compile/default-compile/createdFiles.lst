@@ -1,0 +1,5 @@
+com/ldengra/PetsfoundedApplication.class
+com/ldengra/dto/PostDto.class
+com/ldengra/service/UsuarioService.class
+com/ldengra/dto/UsuarioDto.class
+com/ldengra/controller/UsuarioController.class
